@@ -12,7 +12,7 @@ I'm the proud founder of [codemo.re](https://codemo.re), a platform dedicated to
 
 ## ⚡ Tech Stack 
 
-Here are a few things I've picked up along my learning journey.
+Here are a few things I've picked up
 
 * 🗄️ Databases: PostgreSQL, MySQL, Redis, Elasticsearch
 * ☁️ Cloud Computing: Hetzner, AWS, GCP, Azure
