@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Rory! 
 
-<img align='right' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200">
+<img align='right' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100">
 
 I'm a Site Reliability Engineer (SRE) based in the beautiful city of Berlin. 🌍 I specialize in infrastructure automation and ensuring that systems are scalable, reliable, and secure. I love tinkering with technology and discovering better ways to solve problems. 
 
